@@ -1,4 +1,9 @@
-import random import shuffle
+import random
+
+from random import shuffle
+from random import randint
+
+import array
 
 N = int(input())
 
