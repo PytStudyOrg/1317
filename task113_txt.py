@@ -1,0 +1,5 @@
+my_file = ("file007.txt", "w")
+print("Имя файла:  ", my_file.name)
+print("файл закрыт:  ", my_file.close)
+print("в каком режиме файл откры:  ", my_file.mode)
+print("Проелы:  ", my_file.softspace)
